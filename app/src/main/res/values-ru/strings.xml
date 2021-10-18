@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Samvel_homework_2</string>
     <string name="action_settings">Settings</string>
@@ -9,7 +10,7 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
-    <string name="my_heading_1">Samvel\'s App</string>
-    <string name="my_first_paragraph">Hello World</string>
-    <string name="my_second_paragraph">Hello Another World</string>
+    <string name="my_heading_1">Приложение Самвела</string>
+    <string name="my_first_paragraph">Здравствуй мир</string>
+    <string name="my_second_paragraph">Здравствуй другой мир</string>
 </resources>
